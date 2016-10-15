@@ -15,6 +15,7 @@ tags: [Hexo,IntelliJ IDEA,Git,Github,Node.js]
 ### Hexo 是什么
 
 - Hexo 的中文官网：<http://hexo.io/zh-cn/>
+- Hexo 的中文官网：<http://hexo.io/zh-cn/>
 - 作者 Tommy Chen：<https://zespia.tw/>
 - 在我的理解里面：Hexo 是一个基于 Node.js 快速、简洁且高效的博客框架，可以将 Markdown 文件快速的生成静态网页，托管在 GitHub Pages 上。
 - 而官网自己是这样说的：
