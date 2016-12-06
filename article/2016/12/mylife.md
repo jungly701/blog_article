@@ -10,8 +10,10 @@ tags: [生活，整理，随笔，总结]
 <!-- more -->
 
 ## 2016-11音乐分享
+
 - ![201611morning](http://dusk-life.b0.upaiyun.com/2016/music_share_201611_morning.jpg)
 - ![201611evening](http://dusk-life.b0.upaiyun.com/2016/music_share_201611_evening.jpg)
+- 下载地址戳这里[O(∩_∩)O](http://pan.baidu.com/s/1eSsTrge)
 
 ## 第一次租车练手
 
