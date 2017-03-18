@@ -20,7 +20,7 @@ tags: [配置管理,文档管理,CM,过程支持,项目管理]
     - 配置状态记录：记录配置项的状态，配置项的变化，配置项的差异
     - 配置审计：确认实际的管理状态是否达到预期的手段
     - 详细可见下图
-    - ![CMMI配置管理解读](http://dusk-life.b0.upaiyun.com/2016/mywork_cm_introduce_1.jpg)
+    - ![CMMI配置管理解读](http://dusk-life.b0.upaiyun.com/2016/mywork_cm_exposition_1.jpg)
 
 
 ## 配置系统
